@@ -6,7 +6,15 @@
 
 ## Análise de Dados Airbnb - Nova York
 
-Uma breve descrição do meu projeto, que eu fiz com muito cuidado e atenção aos detalhes, chamando as pessoas para que entrem no meu notebook.
+Nesse projeto realizei uma análise e tratamento dos dados do Airbnb de Nova York. Após realizar essas etapas, podemos enfim responder algumas perguntas importantes parar a empresa, como por exemplo:
+* Qual o valor médio do aluguel da cidade
+* Quais as regiões mais caras e mais baratas
+* Descobrir a localização dos imóveis mais caros, e o porque disso
+
+E além dessas perguntas, fizemos também alguns gráficos para melhor entender os dados. Além de todos esses passos, ainda existem vários insights de extrema importância para uma tomada de decisão da empresa.
+
+Aos longo de todo o projeto foi utilizado Estatística e a linguagem de programação Python, junto de alguns pacotes.
+
 
 [Link para o projeto completo](https://bit.ly/40uSnFa)
 
