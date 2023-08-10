@@ -13,13 +13,13 @@ Nesse projeto realizei uma análise e tratamento dos dados do Airbnb de Nova Yor
 
 E além dessas perguntas, fizemos também alguns gráficos para melhor entender os dados. Além de todos esses passos, ainda existem vários insights de extrema importância para uma tomada de decisão da empresa.
 
-Aos longo de todo o projeto foi utilizado Estatística e a linguagem de programação Python, junto de alguns pacotes.
+Aos longo de todo o projeto foi utilizado: Storytelling, Estatística e a Linguagem de programação Python, junto de alguns pacotes.
 
 
 [Link para o projeto completo](https://bit.ly/40uSnFa)
 
 **Links para me acharem:**
-* [Artigo meu desse projeto no Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7029453146036789248/)
+* [Artigo desse projeto no Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7029453146036789248/)
 * [LinkedIn](https://www.linkedin.com/in/felipeferreiratids/)
 * [Instagram](https://www.instagram.com/ferreiramar96/)
 * [Portfólio Completo](https://github.com/ferreiramar96/Data_Science)
